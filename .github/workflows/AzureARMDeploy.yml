@@ -25,3 +25,6 @@ jobs:
             --resource-group NishaGithubDeploy-RG \
             --template-file armtemplates/storageaccount.json \
             --parameters storageAccountType=Standard_GRS
+
+
+            
